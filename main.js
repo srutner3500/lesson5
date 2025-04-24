@@ -1,1 +1,1 @@
-console.log("from main file")
+alert("this is the main page")
